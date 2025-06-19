@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # --- CONFIGURAÇÕES ---
 # 1. Caminho para a pasta onde seus jogos de PS2 estão no pendrive.
 #    Se os jogos estão na raiz do pendrive (ex: ul.CODIGO.SLUS_ID.XX), aponte para a raiz.
