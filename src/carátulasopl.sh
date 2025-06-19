@@ -3,7 +3,7 @@
 # --- CONFIGURACIÓN ---
 # 1. Ruta a la carpeta donde tus juegos de PS2 están en la unidad USB.
 #    Si los juegos están en la raíz de la unidad USB (ej: ul.CODIGO.SLUS_ID.XX), apunta a la raíz.
-GAMES_DIR="/run/media/USER_NAME/YPS2/"
+GAMES_DIR="/run/media/USER_NAME/DISKNAME/"
 
 # 2. Ruta a la carpeta ART de OPL en tu unidad USB.
 #    Las carátulas se guardarán aquí. Esta carpeta generalmente está en la raíz de la unidad USB de OPL.
