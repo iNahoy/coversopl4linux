@@ -1,5 +1,5 @@
 # CoversOPL4Linux
-### Brazuca Edition! 🇧🇷
+### Brazuca Edition!
 Olá, camaradas do OPL!
 
 Cansado de buscar capas para seus jogos manualmente? Apresento a vocês um **script que automatiza o download de capas para o Open PS2 Loader (OPL) diretamente pelo terminal!**
@@ -17,7 +17,7 @@ Com poucos passos, suas capas serão baixadas e organizadas, deixando seu OPL ai
 
 ---
 
-### English Version 🇬🇧🇺🇸
+### English Version
 
 Hello, OPL comrades!
 
