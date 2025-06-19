@@ -43,7 +43,6 @@ for GAME_FILE in "${GAMES_DIR}"ul.*; do
     # Ex: SLUS_217.82 -> SLUS-21782
     FORMATTED_GAME_ID=$(echo "$RAW_GAME_ID" | tr '_' '-' | tr -d '.')
 
-
     # Uma verificação básica para garantir que o ID formatado não está vazio e parece um ID de jogo.
     if [[ -n "$FORMATTED_GAME_ID" && "$FORMATTED_GAME_ID" =~ ^S[A-Z]+-[0-9]+$ ]]; then
         echo "  ID do Jogo encontrado (OPL): ${RAW_GAME_ID}"
